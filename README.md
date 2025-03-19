@@ -42,7 +42,7 @@ We will perform the following types of testing:
 
 ---
 
-### ** How to Run the Project**  
+### **How to Run the Project**  
 1. Clone this repository:  
    ```sh
    git clone https://github.com/alaa2702/DEPI_Graduation_Project.git
@@ -53,7 +53,7 @@ We will perform the following types of testing:
   
 4. View **Test Reports** in `/reports/`  
 
-### ** Project Structure**  
+### **Project Structure**  
 ```
 /test-cases        → Manual test scenarios (Excel, PDF)  
 /api-tests         → Postman collections  
@@ -61,6 +61,6 @@ We will perform the following types of testing:
 /reports           → Test execution reports  
 ```
 
-### ** Contributing**  
+### **Contributing**  
 Feel free to fork and improve the test cases! 
 
