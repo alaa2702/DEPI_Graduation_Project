@@ -1,4 +1,4 @@
-# DEPI_Graduation_Project
+# E-commerce website
 
 ## **Project Overview**  
 This repository contains all the work done for the DEPI graduation project, which addresses the testing of a web application using *manual testing, API testing, and automated testing* techniques. The testing process follows industry best practices, including *test planning, system analysis, and implementation* using tools like *Selenium and Postman*.  
